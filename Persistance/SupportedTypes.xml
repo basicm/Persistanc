@@ -1,0 +1,5 @@
+﻿<?xml version="1.0"?>
+<types>
+  <type key="FILE" value="Persistance.DbLogStrategy"/>
+  <type key="CONSOLE" value="Persistance.NetLogStrategy"/>
+</types>
